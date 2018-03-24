@@ -1,0 +1,46 @@
+ #content{
+     background-color:yellowgreen;
+     padding:0px;
+     margin:0px;
+     width:100%;
+
+}
+#cont1{
+    text-align: center;
+    color:white;
+    padding-top: .4em;
+    font-size:2em;
+
+}
+#cont2 li{
+    list-style:none;
+    display:inline;
+    padding:0.25em;
+
+    
+    
+
+}
+.A{
+    text-decoration:none;
+    padding:0.5em;
+    font-size: 1em;
+
+}
+.A:hover{
+    background-color: tomato;
+    
+}
+p{
+    text-align:center;
+    font-size:1em;
+    color:brown;
+    
+}
+#cont2{
+    padding:1em;
+}
+body{
+    padding:0em;
+    margin:0em;
+}
